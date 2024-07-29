@@ -1,0 +1,60 @@
+.button {
+    margin-top: 4%;
+    border: 7px solid black;
+    width: 200px;
+    background-color: white;
+    color: black;
+    height: 200px;
+    border-radius: 15px;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: 20%;
+}
+
+h1 {
+    font-family: Courier;
+}
+
+p {
+    font-family:  Courier;
+}
+
+h2 {
+    font-family: Courier;
+    font-weight: 300;
+}
+
+button {
+    padding: 5px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    font-family: Courier;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 20%;
+}
+
+/*
+.down {
+    height: 20px;
+    width: 98%;
+    padding-top: 10px;
+    background-color: black;
+    position: fixed;
+    bottom: 1px;
+    text-align: center;
+}
+*/
+body {
+    padding: 0px;
+}
+
+
